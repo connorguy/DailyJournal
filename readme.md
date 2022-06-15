@@ -2,7 +2,7 @@
 Quick pragmatic task centric journaling with streamlit ui. All entries saved in formatted markdown.
 
 ### To run (with Poetry)
-- Set var `path_to_entries` to a permiment place
+- Set var `path_to_entries` inside main.py to a permiment place
 - `cd /path/to/repo`
 - `poetry install` (only need to run once)
 - `source $(poetry env info --path)/bin/activate`
