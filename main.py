@@ -4,7 +4,7 @@ import os
 
 import streamlit as st
 
-path_to_entries = '/Users/connorguy/Documents/personal/daily_j/'
+path_to_entries = '/path/to/dedicated/folder'
 
 '''
 # Daily Journal
