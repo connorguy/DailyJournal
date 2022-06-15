@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dailyjournal"
+version = "0.1.0"
+description = ""
+authors = ["connorguy <connor_guy@icloud.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+streamlit = "^1.10.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
